@@ -186,10 +186,10 @@
         <h2 class="mb-5">Programme musical du jour</h2>
         <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
         <div class="flex-grow-1">
-        <h3 class="mb-0">Viens avec moi mon vieux pays</h3>
+        <h3 class="mb-0">Et pourtant dans le monde</h3>
         <!-- <div class="subheading mb-3">Gebi l'aplication qui gère votre bibliotèque</div> -->
         </div>
-        <div class="flex-shrink-0"><span class="text-primary">Emile Loizeau</span></div>
+        <div class="flex-shrink-0"><span class="text-primary">Moustaki</span></div>
     </div>
         <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
         <div class="flex-grow-1">
