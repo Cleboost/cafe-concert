@@ -116,7 +116,7 @@
         <h2 class="mb-5">Nos futurs rendez-vous</h2>
         <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
           <div class="flex-grow-1">
-            <h3 class="mb-0">Présentation musicale du programme de l'année</h3>
+            <h3 class="mb-0" style="font-style: italic;">Présentation musicale du programme de l'année</h3>
             <!-- <div class="subheading mb-3">En cours</div> -->
             <!-- <p>Planification de cette année.</p> -->
           </div>
@@ -193,45 +193,45 @@
     </div>
         <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
         <div class="flex-grow-1">
-        <h3 class="mb-0">Imagine</h3>
+        <h3 class="mb-0">Ca ne m'etonne pas</h3>
         <!-- <div class="subheading mb-3">Gebi l'aplication qui gère votre bibliotèque</div> -->
         </div>
-        <div class="flex-shrink-0"><span class="text-primary">John Lennon</span></div>
+        <div class="flex-shrink-0"><span class="text-primary">Mickey3D</span></div>
     </div>
     <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
         <div class="flex-grow-1">
-        <h3 class="mb-0">Cerf-Volants</h3>
+        <h3 class="mb-0">Forest</h3>
         <!-- <div class="subheading mb-3">Gebi l'aplication qui gère votre bibliotèque</div> -->
         </div>
-        <div class="flex-shrink-0"><span class="text-primary">Les choristes</span></div>
+        <div class="flex-shrink-0"><span class="text-primary">Soprano</span></div>
     </div>
     <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
         <div class="flex-grow-1">
-        <h3 class="mb-0">Women</h3>
+        <h3 class="mb-0">Pour la peine</h3>
         <!-- <div class="subheading mb-3">Gebi l'aplication qui gère votre bibliotèque</div> -->
         </div>
-        <div class="flex-shrink-0"><span class="text-primary">John Lennon</span></div>
+        <div class="flex-shrink-0"><span class="text-primary">Les amants de la bastille</span></div>
     </div>
     <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
       <div class="flex-grow-1">
-      <h3 class="mb-0">Debout les femmes</h3>
+      <h3 class="mb-0">Fais battre ton tambour</h3>
       <!-- <div class="subheading mb-3">Gebi l'aplication qui gère votre bibliotèque</div> -->
       </div>
-      <div class="flex-shrink-0"><span class="text-primary">Brigitte</span></div>
+      <div class="flex-shrink-0"><span class="text-primary">Emily Loizeau</span></div>
   </div>
     <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
         <div class="flex-grow-1">
-        <h3 class="mb-0">Le pouvoir des fleurs</h3>
+        <h3 class="mb-0">Et si en plus y'a personne</h3>
         <!-- <div class="subheading mb-3">Gebi l'aplication qui gère votre bibliotèque</div> -->
         </div>
-        <div class="flex-shrink-0"><span class="text-primary">Laurent Voulzy</span></div>
+        <div class="flex-shrink-0"><span class="text-primary">Souchon</span></div>
     </div>
     <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
         <div class="flex-grow-1">
-        <h3 class="mb-0">La mer</h3>
+        <h3 class="mb-0">"Si"</h3>
         <!-- <div class="subheading mb-3">Gebi l'aplication qui gère votre bibliotèque</div> -->
         </div>
-        <div class="flex-shrink-0"><span class="text-primary">Charles Trenet</span></div>
+        <div class="flex-shrink-0"><span class="text-primary">ZAZ</span></div>
     </div>
     <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
         <div class="flex-grow-1">
