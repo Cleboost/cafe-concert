@@ -233,20 +233,11 @@
         </div>
         <div class="flex-shrink-0"><span class="text-primary">ZAZ</span></div>
     </div>
-    <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+    <!-- <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
         <div class="flex-grow-1">
         <h3 class="mb-0">J'ai demandé a la lune</h3>
         <!-- <div class="subheading mb-3">Gebi l'aplication qui gère votre bibliotèque</div> -->
         </div>
-        <div class="flex-shrink-0"><span class="text-primary">Indochine</span></div>
-    </div>
-    <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
-        <div class="flex-grow-1">
-        <h3 class="mb-0">Emmène-moi</h3>
-        <!-- <div class="subheading mb-3">Gebi l'aplication qui gère votre bibliotèque</div> -->
-        </div>
-        <div class="flex-shrink-0"><span class="text-primary">Boulevard des Airs</span></div>
-    </div>
   </section>
   <hr class="m-0" />
   <!-- Education-->
