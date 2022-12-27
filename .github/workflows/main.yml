@@ -14,3 +14,4 @@ jobs:
         server: ftp.cluster026.hosting.ovh.net
         username: bthkqiz
         password: LZV37uCfUAA9Gmz
+        server-dir: cafe/
