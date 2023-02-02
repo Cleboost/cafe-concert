@@ -25,7 +25,7 @@
   <?php 
       $text = file_get_contents('count.txt');
       file_put_contents('count.txt', $text + 1);
-      echo $text
+      // echo $text
   ?>
 
   <!-- <video id="background-video" autoplay loop muted>
@@ -186,52 +186,59 @@
         <h2 class="mb-5">Programme musical du jour</h2>
         <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
         <div class="flex-grow-1">
-        <h3 class="mb-0">Et pourtant dans le monde</h3>
+        <h3 class="mb-0">Les abeilles butines</h3>
         <!-- <div class="subheading mb-3">Gebi l'aplication qui gère votre bibliotèque</div> -->
         </div>
-        <div class="flex-shrink-0"><span class="text-primary">Moustaki</span></div>
+        <div class="flex-shrink-0"><span class="text-primary">Inconnus</span></div>
     </div>
         <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
         <div class="flex-grow-1">
-        <h3 class="mb-0">Ca ne m'etonne pas</h3>
+        <h3 class="mb-0">Abeilles Road</h3>
         <!-- <div class="subheading mb-3">Gebi l'aplication qui gère votre bibliotèque</div> -->
         </div>
-        <div class="flex-shrink-0"><span class="text-primary">Mickey3D</span></div>
+        <div class="flex-shrink-0"><span class="text-primary">Inconnus</span></div>
     </div>
     <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
         <div class="flex-grow-1">
-        <h3 class="mb-0">Forest</h3>
+        <h3 class="mb-0">Le Caribou Volant</h3>
         <!-- <div class="subheading mb-3">Gebi l'aplication qui gère votre bibliotèque</div> -->
         </div>
-        <div class="flex-shrink-0"><span class="text-primary">Soprano</span></div>
+        <div class="flex-shrink-0"><span class="text-primary">Inconnus</span></div>
     </div>
     <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
         <div class="flex-grow-1">
-        <h3 class="mb-0">Pour la peine</h3>
+        <h3 class="mb-0">L'abeille et le papillon</h3>
         <!-- <div class="subheading mb-3">Gebi l'aplication qui gère votre bibliotèque</div> -->
         </div>
-        <div class="flex-shrink-0"><span class="text-primary">Les amants de la bastille</span></div>
+        <div class="flex-shrink-0"><span class="text-primary">H. Salvador</span></div>
     </div>
     <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
       <div class="flex-grow-1">
-      <h3 class="mb-0">Fais battre ton tambour</h3>
+      <h3 class="mb-0">Les abeilles</h3>
       <!-- <div class="subheading mb-3">Gebi l'aplication qui gère votre bibliotèque</div> -->
       </div>
-      <div class="flex-shrink-0"><span class="text-primary">Emily Loizeau</span></div>
-  </div>
-    <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
-        <div class="flex-grow-1">
-        <h3 class="mb-0">Et si en plus y'a personne</h3>
-        <!-- <div class="subheading mb-3">Gebi l'aplication qui gère votre bibliotèque</div> -->
-        </div>
-        <div class="flex-shrink-0"><span class="text-primary">Souchon</span></div>
+      <div class="flex-shrink-0"><span class="text-primary">Bourvil</span></div>
     </div>
     <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
         <div class="flex-grow-1">
-        <h3 class="mb-0">"Si"</h3>
+        <h3 class="mb-0">Le jour d'Après</h3>
+        <!-- <div class="subheading mb-3">Gebi l'aplication qui gère votre bibliotèque</div> -->
+        </div>
+        <div class="flex-shrink-0"><span class="text-primary">Badi</span></div>
+    </div>
+    <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+        <div class="flex-grow-1">
+        <h3 class="mb-0">Fleure de saison d'Emilie Simon</h3>
         <!-- <div class="subheading mb-3">Gebi l'aplication qui gère votre bibliotèque</div> -->
         </div>
         <div class="flex-shrink-0"><span class="text-primary">ZAZ</span></div>
+    </div>
+    <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+        <div class="flex-grow-1">
+        <h3 class="mb-0">Viens avec moi mon veix pays</h3>
+        <!-- <div class="subheading mb-3">Gebi l'aplication qui gère votre bibliotèque</div> -->
+        </div>
+        <div class="flex-shrink-0"><span class="text-primary">E. Loizeau</span></div>
     </div>
     <!-- <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
         <div class="flex-grow-1">
