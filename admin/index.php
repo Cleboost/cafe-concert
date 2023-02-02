@@ -7,10 +7,7 @@
     <title>Document</title>
 </head>
 <body>
-    <?php 
-        $text = file_get_contents('cafeconcert.cleboost.ovh/count.txt');
-        echo($text);
-    ?>
-    <script src="./coucou.js"></script>
+    <div id="content"></div>
+    <script src="./reloader.js"></script>
 </body>
 </html>
