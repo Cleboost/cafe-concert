@@ -21,7 +21,6 @@
 </head>
 
 <body id="page-top">
-
   <?php 
       $text = file_get_contents('count.txt');
       file_put_contents('count.txt', $text + 1);
