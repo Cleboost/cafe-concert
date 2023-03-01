@@ -186,64 +186,57 @@
         <h2 class="mb-5">Programme musical du jour</h2>
         <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
         <div class="flex-grow-1">
-        <h3 class="mb-0">Les abeilles butines</h3>
+        <h3 class="mb-0">Et pourtant dans le monde</h3>
         <!-- <div class="subheading mb-3">Gebi l'aplication qui gère votre bibliotèque</div> -->
         </div>
-        <div class="flex-shrink-0"><span class="text-primary">Inconnus</span></div>
+        <div class="flex-shrink-0"><span class="text-primary">Moustab</span></div>
     </div>
         <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
         <div class="flex-grow-1">
-        <h3 class="mb-0">Abeilles Road</h3>
+        <h3 class="mb-0">Ca m'étonne pas</h3>
         <!-- <div class="subheading mb-3">Gebi l'aplication qui gère votre bibliotèque</div> -->
         </div>
-        <div class="flex-shrink-0"><span class="text-primary">Inconnus</span></div>
+        <div class="flex-shrink-0"><span class="text-primary">Mickey 3D</span></div>
     </div>
     <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
         <div class="flex-grow-1">
-        <h3 class="mb-0">Le Caribou Volant</h3>
+        <h3 class="mb-0">Forrest</h3>
         <!-- <div class="subheading mb-3">Gebi l'aplication qui gère votre bibliotèque</div> -->
         </div>
-        <div class="flex-shrink-0"><span class="text-primary">Inconnus</span></div>
+        <div class="flex-shrink-0"><span class="text-primary">Soprano</span></div>
     </div>
     <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
         <div class="flex-grow-1">
-        <h3 class="mb-0">L'abeille et le papillon</h3>
+        <h3 class="mb-0">1789</h3>
         <!-- <div class="subheading mb-3">Gebi l'aplication qui gère votre bibliotèque</div> -->
         </div>
-        <div class="flex-shrink-0"><span class="text-primary">H. Salvador</span></div>
+        <div class="flex-shrink-0"><span class="text-primary">Les amants de la batille</span></div>
     </div>
     <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
       <div class="flex-grow-1">
-      <h3 class="mb-0">Les abeilles</h3>
+      <h3 class="mb-0">Fais battre ton tambour</h3>
       <!-- <div class="subheading mb-3">Gebi l'aplication qui gère votre bibliotèque</div> -->
       </div>
-      <div class="flex-shrink-0"><span class="text-primary">Bourvil</span></div>
+    <div class="flex-shrink-0"><span class="text-primary">Emily Loizeau</span></div>
     </div>
     <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
         <div class="flex-grow-1">
-        <h3 class="mb-0">Le jour d'Après</h3>
+        <h3 class="mb-0">Si</h3>
         <!-- <div class="subheading mb-3">Gebi l'aplication qui gère votre bibliotèque</div> -->
         </div>
-        <div class="flex-shrink-0"><span class="text-primary">Badi</span></div>
+        <div class="flex-shrink-0"><span class="text-primary">Zaz</span></div>
     </div>
     <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
         <div class="flex-grow-1">
-        <h3 class="mb-0">Fleure de saison d'Emilie Simon</h3>
+        <h3 class="mb-0">Et si en plus y a personne</h3>
         <!-- <div class="subheading mb-3">Gebi l'aplication qui gère votre bibliotèque</div> -->
         </div>
-        <div class="flex-shrink-0"><span class="text-primary">ZAZ</span></div>
-    </div>
-    <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
-        <div class="flex-grow-1">
-        <h3 class="mb-0">Viens avec moi mon veix pays</h3>
-        <!-- <div class="subheading mb-3">Gebi l'aplication qui gère votre bibliotèque</div> -->
-        </div>
-        <div class="flex-shrink-0"><span class="text-primary">E. Loizeau</span></div>
+        <div class="flex-shrink-0"><span class="text-primary">Souchon</span></div>
     </div>
     <!-- <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
         <div class="flex-grow-1">
         <h3 class="mb-0">J'ai demandé a la lune</h3>
-        <!-- <div class="subheading mb-3">Gebi l'aplication qui gère votre bibliotèque</div> -->
+        <div class="subheading mb-3">Gebi l'aplication qui gère votre bibliotèque</div> -->
         </div>
   </section>
   <hr class="m-0" />
