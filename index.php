@@ -186,52 +186,59 @@
         <h2 class="mb-5">Programme musical du jour</h2>
         <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
         <div class="flex-grow-1">
-        <h3 class="mb-0">Et pourtant dans le monde</h3>
+        <h3 class="mb-0">Aux arbres citoyens</h3>
         <!-- <div class="subheading mb-3">Gebi l'aplication qui gère votre bibliotèque</div> -->
         </div>
-        <div class="flex-shrink-0"><span class="text-primary">Moustab</span></div>
+        <div class="flex-shrink-0"><span class="text-primary">Inconnus</span></div>
     </div>
         <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
         <div class="flex-grow-1">
-        <h3 class="mb-0">Ca m'étonne pas</h3>
+        <h3 class="mb-0">Il est où le SAV</h3>
         <!-- <div class="subheading mb-3">Gebi l'aplication qui gère votre bibliotèque</div> -->
         </div>
-        <div class="flex-shrink-0"><span class="text-primary">Mickey 3D</span></div>
+        <div class="flex-shrink-0"><span class="text-primary">Inconnus</span></div>
     </div>
     <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
         <div class="flex-grow-1">
-        <h3 class="mb-0">Forrest</h3>
+        <h3 class="mb-0">La Mer  de Trenet</h3>
         <!-- <div class="subheading mb-3">Gebi l'aplication qui gère votre bibliotèque</div> -->
         </div>
-        <div class="flex-shrink-0"><span class="text-primary">Soprano</span></div>
+        <div class="flex-shrink-0"><span class="text-primary">Inconnus</span></div>
     </div>
     <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
         <div class="flex-grow-1">
-        <h3 class="mb-0">1789</h3>
+        <h3 class="mb-0">Emmène-moi</h3>
         <!-- <div class="subheading mb-3">Gebi l'aplication qui gère votre bibliotèque</div> -->
         </div>
-        <div class="flex-shrink-0"><span class="text-primary">Les amants de la batille</span></div>
+        <div class="flex-shrink-0"><span class="text-primary">Inconnus</span></div>
     </div>
     <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
       <div class="flex-grow-1">
-      <h3 class="mb-0">Fais battre ton tambour</h3>
+      <h3 class="mb-0">Le Caribou Volant</h3>
       <!-- <div class="subheading mb-3">Gebi l'aplication qui gère votre bibliotèque</div> -->
       </div>
-    <div class="flex-shrink-0"><span class="text-primary">Emily Loizeau</span></div>
+    <div class="flex-shrink-0"><span class="text-primary">Inconnus</span></div>
     </div>
     <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
         <div class="flex-grow-1">
-        <h3 class="mb-0">Si</h3>
+        <h3 class="mb-0">Le pouvoir des fleurs</h3>
         <!-- <div class="subheading mb-3">Gebi l'aplication qui gère votre bibliotèque</div> -->
         </div>
-        <div class="flex-shrink-0"><span class="text-primary">Zaz</span></div>
+        <div class="flex-shrink-0"><span class="text-primary">Inconnus</span></div>
     </div>
     <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
         <div class="flex-grow-1">
-        <h3 class="mb-0">Et si en plus y a personne</h3>
+        <h3 class="mb-0">L'abeille et le papillon</h3>
         <!-- <div class="subheading mb-3">Gebi l'aplication qui gère votre bibliotèque</div> -->
         </div>
-        <div class="flex-shrink-0"><span class="text-primary">Souchon</span></div>
+        <div class="flex-shrink-0"><span class="text-primary">Inconnus</span></div>
+    </div>
+    <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+        <div class="flex-grow-1">
+        <h3 class="mb-0">Des ricochets</h3>
+        <!-- <div class="subheading mb-3">Gebi l'aplication qui gère votre bibliotèque</div> -->
+        </div>
+        <div class="flex-shrink-0"><span class="text-primary">Inconnus</span></div>
     </div>
     <!-- <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
         <div class="flex-grow-1">
