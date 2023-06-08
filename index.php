@@ -193,57 +193,60 @@
     </div>
         <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
         <div class="flex-grow-1">
-        <h3 class="mb-0">Le jour d'après</h3>
+        <h3 class="mb-0">Le monde chnage de peau</h3>
         <!-- <div class="subheading mb-3">Gebi l'aplication qui gère votre bibliotèque</div> -->
         </div>
-        <div class="flex-shrink-0"><span class="text-primary">Inconnus</span></div>
+        <div class="flex-shrink-0"><span class="text-primary">Souchon</span></div>
     </div>
     <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
         <div class="flex-grow-1">
-        <h3 class="mb-0">La Mer  de Trenet</h3>
+        <h3 class="mb-0">Petit</h3>
         <!-- <div class="subheading mb-3">Gebi l'aplication qui gère votre bibliotèque</div> -->
         </div>
-        <div class="flex-shrink-0"><span class="text-primary">Inconnus</span></div>
+        <div class="flex-shrink-0"><span class="text-primary">Sadccloxn</span></div>
     </div>
     <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
         <div class="flex-grow-1">
-        <h3 class="mb-0">Emmène-moi</h3>
+        <h3 class="mb-0">La chave-souris</h3>
         <!-- <div class="subheading mb-3">Gebi l'aplication qui gère votre bibliotèque</div> -->
         </div>
-        <div class="flex-shrink-0"><span class="text-primary">Inconnus</span></div>
+        <div class="flex-shrink-0"><span class="text-primary">Fersen</span></div>
     </div>
     <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
       <div class="flex-grow-1">
-      <h3 class="mb-0">Le Caribou Volant</h3>
+      <h3 class="mb-0">Il est ou le SAV</h3>
       <!-- <div class="subheading mb-3">Gebi l'aplication qui gère votre bibliotèque</div> -->
       </div>
-    <div class="flex-shrink-0"><span class="text-primary">Inconnus</span></div>
+    <div class="flex-shrink-0"><span class="text-primary">Suzane</span></div>
     </div>
     <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
         <div class="flex-grow-1">
-        <h3 class="mb-0">Le pouvoir des fleurs</h3>
+        <h3 class="mb-0">Prière des oiseaux</h3>
         <!-- <div class="subheading mb-3">Gebi l'aplication qui gère votre bibliotèque</div> -->
         </div>
-        <div class="flex-shrink-0"><span class="text-primary">Inconnus</span></div>
+        <div class="flex-shrink-0"><span class="text-primary">Barbara Pravi</span></div>
     </div>
     <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
         <div class="flex-grow-1">
-        <h3 class="mb-0">L'abeille et le papillon</h3>
+        <h3 class="mb-0">Le lion est mort ce soir</h3>
         <!-- <div class="subheading mb-3">Gebi l'aplication qui gère votre bibliotèque</div> -->
         </div>
-        <div class="flex-shrink-0"><span class="text-primary">Inconnus</span></div>
+        <div class="flex-shrink-0"><span class="text-primary">Salvador</span></div>
     </div>
     <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
         <div class="flex-grow-1">
-        <h3 class="mb-0">Des ricochets</h3>
+        <h3 class="mb-0">Le vent nous portera</h3>
         <!-- <div class="subheading mb-3">Gebi l'aplication qui gère votre bibliotèque</div> -->
         </div>
-        <div class="flex-shrink-0"><span class="text-primary">Inconnus</span></div>
+        <div class="flex-shrink-0"><span class="text-primary">Noir Désir</span></div>
     </div>
-    <!-- <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+    <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
         <div class="flex-grow-1">
-        <h3 class="mb-0">J'ai demandé a la lune</h3>
-        <div class="subheading mb-3">Gebi l'aplication qui gère votre bibliotèque</div> -->
+        <h3 class="mb-0">La jument</h3>
+        <!-- <div class="subheading mb-3">Gebi l'aplication qui gère votre bibliotèque</div> -->
+        </div>
+        <div class="flex-shrink-0"><span class="text-primary">Michao</span></div>
+    </div>
         </div>
   </section>
   <hr class="m-0" />
